@@ -1,4 +1,0 @@
-interface:
-  display_name: "笔记侠式访谈成稿"
-  short_description: "从原始谈话发现值得写的内容，保留经验与判断，编辑成有厚度的公众号文章"
-  default_prompt: "请用 $notesman-transcript-to-wechat，把我提供的原始材料编辑成一篇高质量公众号文章。"
