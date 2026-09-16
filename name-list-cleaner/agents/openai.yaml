@@ -1,0 +1,12 @@
+interface:
+  display_name: 姓名名单格式整理
+  short_description: 清理并复核 Excel 学生姓名名单，确保一格一姓名且可追溯
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
